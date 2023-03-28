@@ -32,3 +32,5 @@ Face detection using Haar cascades is a machine learning based approach where a 
 * The only difference here is that we use an infinite loop to loop through each frame in the video.
 * We use cap.read() to read each frame. The first value returned is a flag that indicates if the frame was read correctly or not. 
 * We don’t need it. The second value returned is the still frame on which we will be performing the detection.
+
+Github Repo Link:- https://github.com/srvjha/Face-Image-Detection
